@@ -7,9 +7,3 @@ print("I want to push to remote repo");
 print("This is a test mail");
 print("This is a test acount");
 
-a = 234;
-b = 123;
-c = age;
-print (a+b+c);
-
-print ("Good Samaritan");
